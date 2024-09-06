@@ -1,0 +1,23 @@
+.message {
+  border: solid 2px blue;
+  border-radius: 10px;
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+  background: aqua;
+  font-size: 26px;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  cursor: pointer;
+  transition: all 300ms;
+}
+.message:hover{
+  background: aquamarine;
+}
+.name {
+  color: blue;
+}
+.text {
+  color: royalblue;
+}
