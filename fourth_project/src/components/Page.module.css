@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
+
+.container {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.colorText {
+  color: red;
+}
+
+.colorText:hover {
+  color: orange;
+}
